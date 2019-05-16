@@ -1,7 +1,7 @@
 # KnowYourDrinks
 Shows list of drinks. Lets see how many you know...
 # Setup
-Install latest aversion of node and clone the repository
+Install latest version of node and clone the repository
 
 then follow the below steps
 
